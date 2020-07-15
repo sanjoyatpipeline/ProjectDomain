@@ -1,0 +1,4756 @@
+$ORIGIN .
+$TTL 3600      ; 1 hour
+openphish.host.pl        IN SOA  need.to.know.only. hostmaster.pl.com. (
+                                1594722505 ; serial
+                                120        ; refresh (2 minutes)
+                                60         ; retry (1 minute)
+                                432000     ; expire (5 days)
+                                60         ; minimum (1 minute)
+                                )
+                        NS      localhost.
+
+$ORIGIN openphish.host.pl.
+marazulturismo.com.br                       CNAME   .
+$ORIGIN marazulturismo.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+behmining.com                       CNAME   .
+$ORIGIN behmining.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+gremlins-in-it.com                       CNAME   .
+$ORIGIN gremlins-in-it.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+expertreviewchannel.co                       CNAME   .
+$ORIGIN expertreviewchannel.co.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+emilyeggebraatenphotography.com                       CNAME   .
+$ORIGIN emilyeggebraatenphotography.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+doctorhaddadpediatriayflores.cl                       CNAME   .
+$ORIGIN doctorhaddadpediatriayflores.cl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+000webhostapp.com                       CNAME   .
+$ORIGIN 000webhostapp.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+axeldlowgclow.ml                       CNAME   .
+$ORIGIN axeldlowgclow.ml.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+verifica-sicurezza.info                       CNAME   .
+$ORIGIN verifica-sicurezza.info.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mypressonline.com                       CNAME   .
+$ORIGIN mypressonline.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+verifyfbconfirm2.ga                       CNAME   .
+$ORIGIN verifyfbconfirm2.ga.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rakutenasdfmaksdlnwefw.xyz                       CNAME   .
+$ORIGIN rakutenasdfmaksdlnwefw.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+metaflip.com                       CNAME   .
+$ORIGIN metaflip.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ekomag.org                       CNAME   .
+$ORIGIN ekomag.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+atwebpages.com                       CNAME   .
+$ORIGIN atwebpages.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+pistolclothing.com.au                       CNAME   .
+$ORIGIN pistolclothing.com.au.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+serveirc.com                       CNAME   .
+$ORIGIN serveirc.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+duilawyeryork.com                       CNAME   .
+$ORIGIN duilawyeryork.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+forumz.info                       CNAME   .
+$ORIGIN forumz.info.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+dynip.org                       CNAME   .
+$ORIGIN dynip.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sytes.net                       CNAME   .
+$ORIGIN sytes.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+za.net                       CNAME   .
+$ORIGIN za.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+anniekiyonaga.com                       CNAME   .
+$ORIGIN anniekiyonaga.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mezopgatcombe.com                       CNAME   .
+$ORIGIN mezopgatcombe.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+alluvialmezozok.com                       CNAME   .
+$ORIGIN alluvialmezozok.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sendgrid.net                       CNAME   .
+$ORIGIN sendgrid.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+dynamic-dns.net                       CNAME   .
+$ORIGIN dynamic-dns.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+paypalstatus2407.info                       CNAME   .
+$ORIGIN paypalstatus2407.info.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ialoioaldan.tk                       CNAME   .
+$ORIGIN ialoioaldan.tk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+asinte.com.mx                       CNAME   .
+$ORIGIN asinte.com.mx.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+smkn1pangandaran.sch.id                       CNAME   .
+$ORIGIN smkn1pangandaran.sch.id.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+zyns.com                       CNAME   .
+$ORIGIN zyns.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+snip.ly                       CNAME   .
+$ORIGIN snip.ly.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+kmu.edu.tr                       CNAME   .
+$ORIGIN kmu.edu.tr.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+homgrondtpepperdeiomnc.com                       CNAME   .
+$ORIGIN homgrondtpepperdeiomnc.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+stilkom-jogi.com.mk                       CNAME   .
+$ORIGIN stilkom-jogi.com.mk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+pmm.ac.in                       CNAME   .
+$ORIGIN pmm.ac.in.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sistemafbet.com                       CNAME   .
+$ORIGIN sistemafbet.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+visionherbal.com                       CNAME   .
+$ORIGIN visionherbal.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+theunitedway.on.ca                       CNAME   .
+$ORIGIN theunitedway.on.ca.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+removegetit.com                       CNAME   .
+$ORIGIN removegetit.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rakutenasdfmaksdlnwefw.monster                       CNAME   .
+$ORIGIN rakutenasdfmaksdlnwefw.monster.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+servemp3.com                       CNAME   .
+$ORIGIN servemp3.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ump.ac.id                       CNAME   .
+$ORIGIN ump.ac.id.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+weebly.com                       CNAME   .
+$ORIGIN weebly.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+appspot.com                       CNAME   .
+$ORIGIN appspot.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+com-zx.ru                       CNAME   .
+$ORIGIN com-zx.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+siwa.co.ke                       CNAME   .
+$ORIGIN siwa.co.ke.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nbsghana.org                       CNAME   .
+$ORIGIN nbsghana.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+conciergehousecalls.com                       CNAME   .
+$ORIGIN conciergehousecalls.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rakutenasdfmaksdlnwefw.icu                       CNAME   .
+$ORIGIN rakutenasdfmaksdlnwefw.icu.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rakutenaajsdklemzdmwe.monster                       CNAME   .
+$ORIGIN rakutenaajsdklemzdmwe.monster.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+gbengineeringservices.com                       CNAME   .
+$ORIGIN gbengineeringservices.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+vodafone-kevelaer.de                       CNAME   .
+$ORIGIN vodafone-kevelaer.de.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+co.pl                       CNAME   .
+$ORIGIN co.pl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+naomigoff.com                       CNAME   .
+$ORIGIN naomigoff.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+newsreviewdocs.com                       CNAME   .
+$ORIGIN newsreviewdocs.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fitnesshouse.uk                       CNAME   .
+$ORIGIN fitnesshouse.uk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+lebus24.com                       CNAME   .
+$ORIGIN lebus24.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+justns.ru                       CNAME   .
+$ORIGIN justns.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+vtpgroup.co.in                       CNAME   .
+$ORIGIN vtpgroup.co.in.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+id67.cf                       CNAME   .
+$ORIGIN id67.cf.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nvrv.xyz                       CNAME   .
+$ORIGIN nvrv.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+pge01sec001.biz.id                       CNAME   .
+$ORIGIN pge01sec001.biz.id.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+duckdns.org                       CNAME   .
+$ORIGIN duckdns.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+paczkagls.online                       CNAME   .
+$ORIGIN paczkagls.online.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+webpages.one                       CNAME   .
+$ORIGIN webpages.one.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+cortiaprivexen.tk                       CNAME   .
+$ORIGIN cortiaprivexen.tk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+multiservicioswebther.com                       CNAME   .
+$ORIGIN multiservicioswebther.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+protestgrosso.com                       CNAME   .
+$ORIGIN protestgrosso.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sightingshomes.com                       CNAME   .
+$ORIGIN sightingshomes.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+my-tee-shirt.com                       CNAME   .
+$ORIGIN my-tee-shirt.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+r2fwa35tas6251i867kjfhghd143.buzz                       CNAME   .
+$ORIGIN r2fwa35tas6251i867kjfhghd143.buzz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+andrewlowhouse.com                       CNAME   .
+$ORIGIN andrewlowhouse.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+biogenchco.com                       CNAME   .
+$ORIGIN biogenchco.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+gsmgaz.ru                       CNAME   .
+$ORIGIN gsmgaz.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+form-help-gb.com                       CNAME   .
+$ORIGIN form-help-gb.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ameofertassemana.com                       CNAME   .
+$ORIGIN ameofertassemana.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+netlixsauextendpians.com                       CNAME   .
+$ORIGIN netlixsauextendpians.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+grupoferrasa.com.br                       CNAME   .
+$ORIGIN grupoferrasa.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+lj65.com                       CNAME   .
+$ORIGIN lj65.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+softintime.com                       CNAME   .
+$ORIGIN softintime.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+paczkigls.com                       CNAME   .
+$ORIGIN paczkigls.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+paczkagls.com                       CNAME   .
+$ORIGIN paczkagls.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+collaboration.com.ua                       CNAME   .
+$ORIGIN collaboration.com.ua.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+html.house                       CNAME   .
+$ORIGIN html.house.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+swarrnim.edu.in                       CNAME   .
+$ORIGIN swarrnim.edu.in.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+juliodelfino.com.br                       CNAME   .
+$ORIGIN juliodelfino.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+lflink.com                       CNAME   .
+$ORIGIN lflink.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+netlify.app                       CNAME   .
+$ORIGIN netlify.app.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+myaccountsplace.com                       CNAME   .
+$ORIGIN myaccountsplace.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+morganrussell.net                       CNAME   .
+$ORIGIN morganrussell.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+osway.com.br                       CNAME   .
+$ORIGIN osway.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+candyecoatedmailz.ru                       CNAME   .
+$ORIGIN candyecoatedmailz.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+piacniacpumpiaon.com                       CNAME   .
+$ORIGIN piacniacpumpiaon.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+savannae.co.tz                       CNAME   .
+$ORIGIN savannae.co.tz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+193.46.198.216                       CNAME   .
+$ORIGIN 193.46.198.216.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ref-claimportal.com                       CNAME   .
+$ORIGIN ref-claimportal.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ygto.com                       CNAME   .
+$ORIGIN ygto.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+support-gb-form.com                       CNAME   .
+$ORIGIN support-gb-form.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+suketteki.com                       CNAME   .
+$ORIGIN suketteki.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+googleapis.com                       CNAME   .
+$ORIGIN googleapis.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+webredirect.org                       CNAME   .
+$ORIGIN webredirect.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+dkonto.pl                       CNAME   .
+$ORIGIN dkonto.pl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+llc25827350.com                       CNAME   .
+$ORIGIN llc25827350.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+xsph.ru                       CNAME   .
+$ORIGIN xsph.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+navas.cat                       CNAME   .
+$ORIGIN navas.cat.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+julhodenovdades.com                       CNAME   .
+$ORIGIN julhodenovdades.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+casualtyomar.com                       CNAME   .
+$ORIGIN casualtyomar.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+beautyscissor.com                       CNAME   .
+$ORIGIN beautyscissor.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ebaykleinan-zeigen.de                       CNAME   .
+$ORIGIN ebaykleinan-zeigen.de.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mala-riba.com                       CNAME   .
+$ORIGIN mala-riba.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+enquantodurartudo.com                       CNAME   .
+$ORIGIN enquantodurartudo.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sacoladeprodutosmagalu.com                       CNAME   .
+$ORIGIN sacoladeprodutosmagalu.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+auditionss.com                       CNAME   .
+$ORIGIN auditionss.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+reircc.com                       CNAME   .
+$ORIGIN reircc.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mamangothounga.com                       CNAME   .
+$ORIGIN mamangothounga.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+webs.com                       CNAME   .
+$ORIGIN webs.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+kleanup.com                       CNAME   .
+$ORIGIN kleanup.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+justlookapp.com                       CNAME   .
+$ORIGIN justlookapp.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+filesusr.com                       CNAME   .
+$ORIGIN filesusr.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+lamonika.com                       CNAME   .
+$ORIGIN lamonika.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+cidrodidi.com                       CNAME   .
+$ORIGIN cidrodidi.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+67.229.29.46                       CNAME   .
+$ORIGIN 67.229.29.46.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+174.139.46.122                       CNAME   .
+$ORIGIN 174.139.46.122.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+liveducation.co.in                       CNAME   .
+$ORIGIN liveducation.co.in.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+unieerlangenwde.ru                       CNAME   .
+$ORIGIN unieerlangenwde.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+homehousedeal.com                       CNAME   .
+$ORIGIN homehousedeal.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+vashtrainer.com                       CNAME   .
+$ORIGIN vashtrainer.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+admitplan.com                       CNAME   .
+$ORIGIN admitplan.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+realinsidemarket.xyz                       CNAME   .
+$ORIGIN realinsidemarket.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+unlawfulmoglen.com                       CNAME   .
+$ORIGIN unlawfulmoglen.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+atulsave.in                       CNAME   .
+$ORIGIN atulsave.in.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+askazz.com                       CNAME   .
+$ORIGIN askazz.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+securitysave.org                       CNAME   .
+$ORIGIN securitysave.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+securityforinstagram.com                       CNAME   .
+$ORIGIN securityforinstagram.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+imfast.io                       CNAME   .
+$ORIGIN imfast.io.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+annmazoninto.me                       CNAME   .
+$ORIGIN annmazoninto.me.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+atib.az                       CNAME   .
+$ORIGIN atib.az.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+qqowceuamazon.xyz                       CNAME   .
+$ORIGIN qqowceuamazon.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ui23iofhewoihgdsg3isdghukgfbsamds1ufidwhg.cf                       CNAME   .
+$ORIGIN ui23iofhewoihgdsg3isdghukgfbsamds1ufidwhg.cf.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+calcadosmultiloja.ga                       CNAME   .
+$ORIGIN calcadosmultiloja.ga.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+preview-domain.com                       CNAME   .
+$ORIGIN preview-domain.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+adsign-ident.com                       CNAME   .
+$ORIGIN adsign-ident.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+eehub-online.com                       CNAME   .
+$ORIGIN eehub-online.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+vercel.app                       CNAME   .
+$ORIGIN vercel.app.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+coachingbykarin.eu                       CNAME   .
+$ORIGIN coachingbykarin.eu.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mijn-passenherstel.xyz                       CNAME   .
+$ORIGIN mijn-passenherstel.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+lihi1.cc                       CNAME   .
+$ORIGIN lihi1.cc.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mijn-aanvraagproces.xyz                       CNAME   .
+$ORIGIN mijn-aanvraagproces.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mecru.info                       CNAME   .
+$ORIGIN mecru.info.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+instagramohelps.com                       CNAME   .
+$ORIGIN instagramohelps.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+instagramofsupport.com                       CNAME   .
+$ORIGIN instagramofsupport.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+jetos.com                       CNAME   .
+$ORIGIN jetos.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+whatsapp2.net                       CNAME   .
+$ORIGIN whatsapp2.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+toorak508.com.au                       CNAME   .
+$ORIGIN toorak508.com.au.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+appearanches.com                       CNAME   .
+$ORIGIN appearanches.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+zubeeinternational.com                       CNAME   .
+$ORIGIN zubeeinternational.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+caleffi.com                       CNAME   .
+$ORIGIN caleffi.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+azflyer.net                       CNAME   .
+$ORIGIN azflyer.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nortiainteriors.com.au                       CNAME   .
+$ORIGIN nortiainteriors.com.au.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+myhealthinsquotes.com                       CNAME   .
+$ORIGIN myhealthinsquotes.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+wausaueats.com                       CNAME   .
+$ORIGIN wausaueats.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bit.ly                       CNAME   .
+$ORIGIN bit.ly.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+codemixto.com                       CNAME   .
+$ORIGIN codemixto.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+plataformadigitalbn1web.com                       CNAME   .
+$ORIGIN plataformadigitalbn1web.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+plataformadigitalbns.com                       CNAME   .
+$ORIGIN plataformadigitalbns.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+surveygizmo.com                       CNAME   .
+$ORIGIN surveygizmo.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+claralaluna.com                       CNAME   .
+$ORIGIN claralaluna.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+xcountdash.com                       CNAME   .
+$ORIGIN xcountdash.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+no28hotel.com                       CNAME   .
+$ORIGIN no28hotel.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+scvhomes411.com                       CNAME   .
+$ORIGIN scvhomes411.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+supergeekreview.com                       CNAME   .
+$ORIGIN supergeekreview.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+viable.cl                       CNAME   .
+$ORIGIN viable.cl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+validation-panel.com                       CNAME   .
+$ORIGIN validation-panel.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+devv.shop                       CNAME   .
+$ORIGIN devv.shop.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ui23iofhewoihgdsg3isdghukgfbsamds1ufidwhg.gq                       CNAME   .
+$ORIGIN ui23iofhewoihgdsg3isdghukgfbsamds1ufidwhg.gq.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+het-impp11.com                       CNAME   .
+$ORIGIN het-impp11.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+davidskeycamp.com.ua                       CNAME   .
+$ORIGIN davidskeycamp.com.ua.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+wrztnchpouldn.com                       CNAME   .
+$ORIGIN wrztnchpouldn.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+emm5672.com                       CNAME   .
+$ORIGIN emm5672.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bitex.kz                       CNAME   .
+$ORIGIN bitex.kz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+prghospitality.com                       CNAME   .
+$ORIGIN prghospitality.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sitta.org                       CNAME   .
+$ORIGIN sitta.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+2waky.com                       CNAME   .
+$ORIGIN 2waky.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+maysalab.com                       CNAME   .
+$ORIGIN maysalab.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mereliverystables.com                       CNAME   .
+$ORIGIN mereliverystables.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+cabanova.com                       CNAME   .
+$ORIGIN cabanova.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+pantoanima.es                       CNAME   .
+$ORIGIN pantoanima.es.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mysurveygizmo.com                       CNAME   .
+$ORIGIN mysurveygizmo.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+volantinternational.com                       CNAME   .
+$ORIGIN volantinternational.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+itaucardmegapromo.ga                       CNAME   .
+$ORIGIN itaucardmegapromo.ga.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+35.198.29.166                       CNAME   .
+$ORIGIN 35.198.29.166.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ita-class30horas.com                       CNAME   .
+$ORIGIN ita-class30horas.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ovidmediagroup.com                       CNAME   .
+$ORIGIN ovidmediagroup.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+aapj.xyz                       CNAME   .
+$ORIGIN aapj.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+thejovialking.com                       CNAME   .
+$ORIGIN thejovialking.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+cit.com.pk                       CNAME   .
+$ORIGIN cit.com.pk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nazwa.pl                       CNAME   .
+$ORIGIN nazwa.pl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+vnvnvn.gq                       CNAME   .
+$ORIGIN vnvnvn.gq.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mywire.org                       CNAME   .
+$ORIGIN mywire.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+zamanexpress.com                       CNAME   .
+$ORIGIN zamanexpress.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sweet-thing.com                       CNAME   .
+$ORIGIN sweet-thing.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+amemagalu-shoploja.com                       CNAME   .
+$ORIGIN amemagalu-shoploja.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+liquidacaodeofertasmagalu.com                       CNAME   .
+$ORIGIN liquidacaodeofertasmagalu.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+paczcouriers.com                       CNAME   .
+$ORIGIN paczcouriers.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+angelcodonramos.com                       CNAME   .
+$ORIGIN angelcodonramos.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+canaca.com                       CNAME   .
+$ORIGIN canaca.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+securitysaveonline.com                       CNAME   .
+$ORIGIN securitysaveonline.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+crazedress.com                       CNAME   .
+$ORIGIN crazedress.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+salimmemon.com                       CNAME   .
+$ORIGIN salimmemon.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+efarinaetaham.com                       CNAME   .
+$ORIGIN efarinaetaham.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+gritty.gr                       CNAME   .
+$ORIGIN gritty.gr.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+doeiso.com                       CNAME   .
+$ORIGIN doeiso.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+multiregistrozonasgvraonlinebn1.xyz                       CNAME   .
+$ORIGIN multiregistrozonasgvraonlinebn1.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+platloonia.com                       CNAME   .
+$ORIGIN platloonia.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+auniwaunta.com                       CNAME   .
+$ORIGIN auniwaunta.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ibbleva.com                       CNAME   .
+$ORIGIN ibbleva.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+web.app                       CNAME   .
+$ORIGIN web.app.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+inmotionhosting.com                       CNAME   .
+$ORIGIN inmotionhosting.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+beget.tech                       CNAME   .
+$ORIGIN beget.tech.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+vreaccxe-norman.cf                       CNAME   .
+$ORIGIN vreaccxe-norman.cf.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+laszurabsaxiopolinga.ml                       CNAME   .
+$ORIGIN laszurabsaxiopolinga.ml.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+renovacaodedispositivo.com                       CNAME   .
+$ORIGIN renovacaodedispositivo.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+magicafilmes.com.br                       CNAME   .
+$ORIGIN magicafilmes.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+plataformaseguramultired1bn.club                       CNAME   .
+$ORIGIN plataformaseguramultired1bn.club.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bimformation.co.nz                       CNAME   .
+$ORIGIN bimformation.co.nz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sinoskywholesale.icu                       CNAME   .
+$ORIGIN sinoskywholesale.icu.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sallustro.com.py                       CNAME   .
+$ORIGIN sallustro.com.py.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+plenavia.cl                       CNAME   .
+$ORIGIN plenavia.cl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+greteldeblock.com                       CNAME   .
+$ORIGIN greteldeblock.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+hidayat.uz                       CNAME   .
+$ORIGIN hidayat.uz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+dwilawyerskansascity.com                       CNAME   .
+$ORIGIN dwilawyerskansascity.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+myee-securepanel.com                       CNAME   .
+$ORIGIN myee-securepanel.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bget.ru                       CNAME   .
+$ORIGIN bget.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+kkachi.co.kr                       CNAME   .
+$ORIGIN kkachi.co.kr.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+andrewssoftware.com                       CNAME   .
+$ORIGIN andrewssoftware.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+maciel.med.br                       CNAME   .
+$ORIGIN maciel.med.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+stimulusfund.net                       CNAME   .
+$ORIGIN stimulusfund.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+amazonaws.com                       CNAME   .
+$ORIGIN amazonaws.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+pantheonsite.io                       CNAME   .
+$ORIGIN pantheonsite.io.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+expressliquidaestoquemg.ml                       CNAME   .
+$ORIGIN expressliquidaestoquemg.ml.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ht-test.ru                       CNAME   .
+$ORIGIN ht-test.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+smartphone-motorola-g8-plus.com                       CNAME   .
+$ORIGIN smartphone-motorola-g8-plus.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+foodtime.us                       CNAME   .
+$ORIGIN foodtime.us.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+companhiaitaunense.com.br                       CNAME   .
+$ORIGIN companhiaitaunense.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+redpoints.com                       CNAME   .
+$ORIGIN redpoints.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+laughingchakra.icu                       CNAME   .
+$ORIGIN laughingchakra.icu.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+luminaryshoppe.icu                       CNAME   .
+$ORIGIN luminaryshoppe.icu.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sevencherubs.icu                       CNAME   .
+$ORIGIN sevencherubs.icu.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+waspsstore.com                       CNAME   .
+$ORIGIN waspsstore.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+satkom.id                       CNAME   .
+$ORIGIN satkom.id.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+kraftsandkreations.com                       CNAME   .
+$ORIGIN kraftsandkreations.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+tinyurl.com                       CNAME   .
+$ORIGIN tinyurl.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+decorativescreensdirect.com.au                       CNAME   .
+$ORIGIN decorativescreensdirect.com.au.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rubenjay.com                       CNAME   .
+$ORIGIN rubenjay.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+erikteichmann.com                       CNAME   .
+$ORIGIN erikteichmann.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+radiodinamica.tk                       CNAME   .
+$ORIGIN radiodinamica.tk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+hotelsafporonnpage.com                       CNAME   .
+$ORIGIN hotelsafporonnpage.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nestleneural.com                       CNAME   .
+$ORIGIN nestleneural.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+htrzogrzater.com                       CNAME   .
+$ORIGIN htrzogrzater.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+204.44.83.216                       CNAME   .
+$ORIGIN 204.44.83.216.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+hookedupboatclub.com                       CNAME   .
+$ORIGIN hookedupboatclub.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sigaramexports.com                       CNAME   .
+$ORIGIN sigaramexports.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+jppost-awo.top                       CNAME   .
+$ORIGIN jppost-awo.top.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+jppost-bne.top                       CNAME   .
+$ORIGIN jppost-bne.top.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rksmb.org                       CNAME   .
+$ORIGIN rksmb.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+atogenergy.co.uk                       CNAME   .
+$ORIGIN atogenergy.co.uk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+makezimbetter.com                       CNAME   .
+$ORIGIN makezimbetter.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+m3i.ro                       CNAME   .
+$ORIGIN m3i.ro.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+qlictonline.nl                       CNAME   .
+$ORIGIN qlictonline.nl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+lojavirtualofrtas.com                       CNAME   .
+$ORIGIN lojavirtualofrtas.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+theedvolution.com                       CNAME   .
+$ORIGIN theedvolution.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+birchdalefireandsecurity.com                       CNAME   .
+$ORIGIN birchdalefireandsecurity.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+conn.pw                       CNAME   .
+$ORIGIN conn.pw.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rapidscreening.com.au                       CNAME   .
+$ORIGIN rapidscreening.com.au.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nannievillage.buzz                       CNAME   .
+$ORIGIN nannievillage.buzz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+clickrecover.xyz                       CNAME   .
+$ORIGIN clickrecover.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ukit.me                       CNAME   .
+$ORIGIN ukit.me.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+restart-recovery.tk                       CNAME   .
+$ORIGIN restart-recovery.tk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+onlineupdtportal.com                       CNAME   .
+$ORIGIN onlineupdtportal.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mrasfo.com                       CNAME   .
+$ORIGIN mrasfo.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+salusinvest.com                       CNAME   .
+$ORIGIN salusinvest.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+majuterus-inc.xyz                       CNAME   .
+$ORIGIN majuterus-inc.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+colegiosmotolinia.edu.mx                       CNAME   .
+$ORIGIN colegiosmotolinia.edu.mx.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+gregarshall4.com                       CNAME   .
+$ORIGIN gregarshall4.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ascgdkuttk.com                       CNAME   .
+$ORIGIN ascgdkuttk.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+commbankmobile.mobi                       CNAME   .
+$ORIGIN commbankmobile.mobi.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+globalcashcenter.com                       CNAME   .
+$ORIGIN globalcashcenter.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+hationlycurion.com                       CNAME   .
+$ORIGIN hationlycurion.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+gov-uk-taxdue.com                       CNAME   .
+$ORIGIN gov-uk-taxdue.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+annitakurier.org                       CNAME   .
+$ORIGIN annitakurier.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+loknirmiti.com                       CNAME   .
+$ORIGIN loknirmiti.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+thecurrentworld.xyz                       CNAME   .
+$ORIGIN thecurrentworld.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+45.76.219.34                       CNAME   .
+$ORIGIN 45.76.219.34.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+torontototalsecurity.ca                       CNAME   .
+$ORIGIN torontototalsecurity.ca.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+instagram-copyright-form-246271937.cf                       CNAME   .
+$ORIGIN instagram-copyright-form-246271937.cf.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+microsoftoffice356.com                       CNAME   .
+$ORIGIN microsoftoffice356.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+willyardlaw.com                       CNAME   .
+$ORIGIN willyardlaw.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+wo4y3.cn                       CNAME   .
+$ORIGIN wo4y3.cn.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sdgsacademy.pk                       CNAME   .
+$ORIGIN sdgsacademy.pk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rakutensdfwemfrzrebe.xyz                       CNAME   .
+$ORIGIN rakutensdfwemfrzrebe.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+weberms.com                       CNAME   .
+$ORIGIN weberms.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ase.ro                       CNAME   .
+$ORIGIN ase.ro.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+haresoku.com                       CNAME   .
+$ORIGIN haresoku.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bgdirectory.net                       CNAME   .
+$ORIGIN bgdirectory.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mehmetuyar.com                       CNAME   .
+$ORIGIN mehmetuyar.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+belortoscana.it                       CNAME   .
+$ORIGIN belortoscana.it.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+join-bkeps10.ml                       CNAME   .
+$ORIGIN join-bkeps10.ml.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rakutensdfwemfrzrebe.monster                       CNAME   .
+$ORIGIN rakutensdfwemfrzrebe.monster.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rakutensdfwemfrzrebe.buzz                       CNAME   .
+$ORIGIN rakutensdfwemfrzrebe.buzz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sezamplus.com                       CNAME   .
+$ORIGIN sezamplus.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+clan.su                       CNAME   .
+$ORIGIN clan.su.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sizmicfoods.com                       CNAME   .
+$ORIGIN sizmicfoods.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+duckbrewing.com                       CNAME   .
+$ORIGIN duckbrewing.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fleetmaintenancebrothers.com                       CNAME   .
+$ORIGIN fleetmaintenancebrothers.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+agenciaeasybr.com.br                       CNAME   .
+$ORIGIN agenciaeasybr.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+piperplanning.com.au                       CNAME   .
+$ORIGIN piperplanning.com.au.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nasilolunurki.com                       CNAME   .
+$ORIGIN nasilolunurki.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+informatik-solutions.ch                       CNAME   .
+$ORIGIN informatik-solutions.ch.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+blogspot.com                       CNAME   .
+$ORIGIN blogspot.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+eurekadigital.co                       CNAME   .
+$ORIGIN eurekadigital.co.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+laketravisgifts.com                       CNAME   .
+$ORIGIN laketravisgifts.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mp2.io                       CNAME   .
+$ORIGIN mp2.io.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+my-pay-pal.ml                       CNAME   .
+$ORIGIN my-pay-pal.ml.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+wostngrzsit.com                       CNAME   .
+$ORIGIN wostngrzsit.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+zohard.com                       CNAME   .
+$ORIGIN zohard.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+wereldpas-vervang.com                       CNAME   .
+$ORIGIN wereldpas-vervang.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+t-elm.net                       CNAME   .
+$ORIGIN t-elm.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+relocatekinloch.com                       CNAME   .
+$ORIGIN relocatekinloch.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+dolgozitely.ru                       CNAME   .
+$ORIGIN dolgozitely.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+vanphugia.com                       CNAME   .
+$ORIGIN vanphugia.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+isconvergence.com                       CNAME   .
+$ORIGIN isconvergence.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nzfstore.com                       CNAME   .
+$ORIGIN nzfstore.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+craftsforthecure.com                       CNAME   .
+$ORIGIN craftsforthecure.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+azureedge.net                       CNAME   .
+$ORIGIN azureedge.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+toongroup.com                       CNAME   .
+$ORIGIN toongroup.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+grupoprofesionalasesor.com                       CNAME   .
+$ORIGIN grupoprofesionalasesor.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+pendletoncountychamber.com                       CNAME   .
+$ORIGIN pendletoncountychamber.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+woodenflooringcontractors.co.za                       CNAME   .
+$ORIGIN woodenflooringcontractors.co.za.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+x5u0b.cn                       CNAME   .
+$ORIGIN x5u0b.cn.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+emagcreator.com                       CNAME   .
+$ORIGIN emagcreator.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+steamproxy.net                       CNAME   .
+$ORIGIN steamproxy.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+art-sticker.fr                       CNAME   .
+$ORIGIN art-sticker.fr.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mix-bom-preco.com                       CNAME   .
+$ORIGIN mix-bom-preco.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mafialess.xyz                       CNAME   .
+$ORIGIN mafialess.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+outsidedialect.com                       CNAME   .
+$ORIGIN outsidedialect.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sabujpatra.com                       CNAME   .
+$ORIGIN sabujpatra.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+takeprofits.in                       CNAME   .
+$ORIGIN takeprofits.in.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+vigor.nu                       CNAME   .
+$ORIGIN vigor.nu.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+eperidemo.net                       CNAME   .
+$ORIGIN eperidemo.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+dovecs.com                       CNAME   .
+$ORIGIN dovecs.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+galaxy-a70.co                       CNAME   .
+$ORIGIN galaxy-a70.co.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ekofuel.org                       CNAME   .
+$ORIGIN ekofuel.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+hopkins.ph                       CNAME   .
+$ORIGIN hopkins.ph.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+turkmcse.com                       CNAME   .
+$ORIGIN turkmcse.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+golfballsonline.com                       CNAME   .
+$ORIGIN golfballsonline.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+com-s02.info                       CNAME   .
+$ORIGIN com-s02.info.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+customtllc.com                       CNAME   .
+$ORIGIN customtllc.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+shredmax.in                       CNAME   .
+$ORIGIN shredmax.in.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+dercasblog.com                       CNAME   .
+$ORIGIN dercasblog.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+centeroflifechurch.com                       CNAME   .
+$ORIGIN centeroflifechurch.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ptietah.com                       CNAME   .
+$ORIGIN ptietah.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+iitee.net                       CNAME   .
+$ORIGIN iitee.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+jivecomunicacoes.com.br                       CNAME   .
+$ORIGIN jivecomunicacoes.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+itmagazin.info                       CNAME   .
+$ORIGIN itmagazin.info.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+eyrehead.com                       CNAME   .
+$ORIGIN eyrehead.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+134.236.212.2                       CNAME   .
+$ORIGIN 134.236.212.2.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+divyaravi.com                       CNAME   .
+$ORIGIN divyaravi.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+culptivehelp.com                       CNAME   .
+$ORIGIN culptivehelp.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fndsdaytings.com                       CNAME   .
+$ORIGIN fndsdaytings.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rainaldisignature.com                       CNAME   .
+$ORIGIN rainaldisignature.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+firstbike.com.bo                       CNAME   .
+$ORIGIN firstbike.com.bo.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+myfreestuffs.com                       CNAME   .
+$ORIGIN myfreestuffs.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+tips10life.com                       CNAME   .
+$ORIGIN tips10life.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sndesign.co                       CNAME   .
+$ORIGIN sndesign.co.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+lazarus.co.zw                       CNAME   .
+$ORIGIN lazarus.co.zw.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+htmlpasta.com                       CNAME   .
+$ORIGIN htmlpasta.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+msftoutlook.site                       CNAME   .
+$ORIGIN msftoutlook.site.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+traslocatorigenova.it                       CNAME   .
+$ORIGIN traslocatorigenova.it.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+xjgyedu.cn                       CNAME   .
+$ORIGIN xjgyedu.cn.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+1crworld.com                       CNAME   .
+$ORIGIN 1crworld.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fbhackpass.com                       CNAME   .
+$ORIGIN fbhackpass.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+thatsmint.work                       CNAME   .
+$ORIGIN thatsmint.work.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+wifeimpact.com                       CNAME   .
+$ORIGIN wifeimpact.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+thuysinhvoiviet.com                       CNAME   .
+$ORIGIN thuysinhvoiviet.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+illmickelsonbeats.com                       CNAME   .
+$ORIGIN illmickelsonbeats.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+cpazimbabwe.co.zw                       CNAME   .
+$ORIGIN cpazimbabwe.co.zw.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+graphnow.com                       CNAME   .
+$ORIGIN graphnow.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+shamrockjc.com.ar                       CNAME   .
+$ORIGIN shamrockjc.com.ar.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+franceandcolps.org                       CNAME   .
+$ORIGIN franceandcolps.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+dopachar.com                       CNAME   .
+$ORIGIN dopachar.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+aurickhotels.com                       CNAME   .
+$ORIGIN aurickhotels.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sman1bajawa.sch.id                       CNAME   .
+$ORIGIN sman1bajawa.sch.id.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+flying-wings-consultants.com                       CNAME   .
+$ORIGIN flying-wings-consultants.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+lejouetfrancais.fr                       CNAME   .
+$ORIGIN lejouetfrancais.fr.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+tonidicoimbra.club                       CNAME   .
+$ORIGIN tonidicoimbra.club.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+aggiornamentoanagrafica.com                       CNAME   .
+$ORIGIN aggiornamentoanagrafica.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+jppost-bzu.top                       CNAME   .
+$ORIGIN jppost-bzu.top.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mightyflick.com                       CNAME   .
+$ORIGIN mightyflick.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+upenda.com                       CNAME   .
+$ORIGIN upenda.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nz-tax.xyz                       CNAME   .
+$ORIGIN nz-tax.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+egwiughb3kjrgheoinisagnerasd23sidhgfe.cf                       CNAME   .
+$ORIGIN egwiughb3kjrgheoinisagnerasd23sidhgfe.cf.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+saxioplaszurabolingga.ml                       CNAME   .
+$ORIGIN saxioplaszurabolingga.ml.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fnbiwr.com                       CNAME   .
+$ORIGIN fnbiwr.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ihchart.ir                       CNAME   .
+$ORIGIN ihchart.ir.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ducitlet.com                       CNAME   .
+$ORIGIN ducitlet.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bigfatdevelopment.com                       CNAME   .
+$ORIGIN bigfatdevelopment.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+hmrc-tax-refunds-form902.com                       CNAME   .
+$ORIGIN hmrc-tax-refunds-form902.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+shandishop.cf                       CNAME   .
+$ORIGIN shandishop.cf.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+onetoone.cl                       CNAME   .
+$ORIGIN onetoone.cl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+svairtech.in                       CNAME   .
+$ORIGIN svairtech.in.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+128.14.3.110                       CNAME   .
+$ORIGIN 128.14.3.110.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+applmanager.com                       CNAME   .
+$ORIGIN applmanager.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+htmlcomponentservice.com                       CNAME   .
+$ORIGIN htmlcomponentservice.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+authorcheck.com                       CNAME   .
+$ORIGIN authorcheck.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+lantikiradar.com                       CNAME   .
+$ORIGIN lantikiradar.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+littlethingspr.com                       CNAME   .
+$ORIGIN littlethingspr.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+internationalobserver.info                       CNAME   .
+$ORIGIN internationalobserver.info.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+parkhill.k12.mo.us                       CNAME   .
+$ORIGIN parkhill.k12.mo.us.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mollyaliens.ga                       CNAME   .
+$ORIGIN mollyaliens.ga.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+psd2-bnl-anagrafica.com                       CNAME   .
+$ORIGIN psd2-bnl-anagrafica.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+kangleigeeks.in                       CNAME   .
+$ORIGIN kangleigeeks.in.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+loveandco.es                       CNAME   .
+$ORIGIN loveandco.es.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ennezaradio.com                       CNAME   .
+$ORIGIN ennezaradio.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+drivewayscleaned.co.uk                       CNAME   .
+$ORIGIN drivewayscleaned.co.uk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+comprarnahoracerta.ml                       CNAME   .
+$ORIGIN comprarnahoracerta.ml.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+onlinenatwest.us                       CNAME   .
+$ORIGIN onlinenatwest.us.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+inunopilom.tk                       CNAME   .
+$ORIGIN inunopilom.tk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+georoc.co.za                       CNAME   .
+$ORIGIN georoc.co.za.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+shadetreetechnology.com                       CNAME   .
+$ORIGIN shadetreetechnology.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+planosdesaude.emp.br                       CNAME   .
+$ORIGIN planosdesaude.emp.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sloaneandhyde.com                       CNAME   .
+$ORIGIN sloaneandhyde.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+jagwine.com                       CNAME   .
+$ORIGIN jagwine.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+cleanera.com                       CNAME   .
+$ORIGIN cleanera.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nagrobki-agdar.pl                       CNAME   .
+$ORIGIN nagrobki-agdar.pl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+207.46.145.19                       CNAME   .
+$ORIGIN 207.46.145.19.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bakerpatagonia.com                       CNAME   .
+$ORIGIN bakerpatagonia.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+donagt.com                       CNAME   .
+$ORIGIN donagt.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bamnola.com                       CNAME   .
+$ORIGIN bamnola.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+maps-pt.com                       CNAME   .
+$ORIGIN maps-pt.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+cascoviejosantander.es                       CNAME   .
+$ORIGIN cascoviejosantander.es.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+onlinebeaupros.com                       CNAME   .
+$ORIGIN onlinebeaupros.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+monthlycoaching.com                       CNAME   .
+$ORIGIN monthlycoaching.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+191.232.176.226                       CNAME   .
+$ORIGIN 191.232.176.226.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+onlynogueirasvirt.com                       CNAME   .
+$ORIGIN onlynogueirasvirt.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+arlington-development.com                       CNAME   .
+$ORIGIN arlington-development.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mariannehoward.org                       CNAME   .
+$ORIGIN mariannehoward.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+julhocertomgz.com                       CNAME   .
+$ORIGIN julhocertomgz.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+checkpoint-manager-corporation-2020.my.id                       CNAME   .
+$ORIGIN checkpoint-manager-corporation-2020.my.id.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sim8promo20.com                       CNAME   .
+$ORIGIN sim8promo20.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+hf278.com                       CNAME   .
+$ORIGIN hf278.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+telelynesplus.co.uk                       CNAME   .
+$ORIGIN telelynesplus.co.uk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+acbspconference.org                       CNAME   .
+$ORIGIN acbspconference.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+envirodrilling.com                       CNAME   .
+$ORIGIN envirodrilling.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+pstratiinc.com                       CNAME   .
+$ORIGIN pstratiinc.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rakutenasdmfwezsdfw.monster                       CNAME   .
+$ORIGIN rakutenasdmfwezsdfw.monster.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+201.163.98.162                       CNAME   .
+$ORIGIN 201.163.98.162.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+vitaminmy.com                       CNAME   .
+$ORIGIN vitaminmy.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+caviarkelp.com                       CNAME   .
+$ORIGIN caviarkelp.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+insca.org                       CNAME   .
+$ORIGIN insca.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+35.188.36.185                       CNAME   .
+$ORIGIN 35.188.36.185.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+216.97.65.6                       CNAME   .
+$ORIGIN 216.97.65.6.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+45.76.106.100                       CNAME   .
+$ORIGIN 45.76.106.100.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+secure-validations.com                       CNAME   .
+$ORIGIN secure-validations.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+kixt-max.xyz                       CNAME   .
+$ORIGIN kixt-max.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+shuvobarta.com                       CNAME   .
+$ORIGIN shuvobarta.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+hernandeztreeservices.com                       CNAME   .
+$ORIGIN hernandeztreeservices.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+151.rs                       CNAME   .
+$ORIGIN 151.rs.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rakutenasdmfwezsdfw.xyz                       CNAME   .
+$ORIGIN rakutenasdmfwezsdfw.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rakutenasdmfwezsdfw.icu                       CNAME   .
+$ORIGIN rakutenasdmfwezsdfw.icu.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+clubecarrinhomag.com                       CNAME   .
+$ORIGIN clubecarrinhomag.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+beyondot.com                       CNAME   .
+$ORIGIN beyondot.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+kdtech.in                       CNAME   .
+$ORIGIN kdtech.in.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+uptymes.com                       CNAME   .
+$ORIGIN uptymes.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+edu.co.tz                       CNAME   .
+$ORIGIN edu.co.tz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+suportcenter013.top                       CNAME   .
+$ORIGIN suportcenter013.top.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+i5girh4kjhrg356kjgierfvriohjt4ogjhrohjtrfmddg.ga                       CNAME   .
+$ORIGIN i5girh4kjhrg356kjgierfvriohjt4ogjhrohjtrfmddg.ga.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ivebeenwrongedonline.com                       CNAME   .
+$ORIGIN ivebeenwrongedonline.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+egwiughb3kjrgheoinisagnerasd23sidhgfe.ga                       CNAME   .
+$ORIGIN egwiughb3kjrgheoinisagnerasd23sidhgfe.ga.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+paypal-communication.com                       CNAME   .
+$ORIGIN paypal-communication.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+com-as.ru                       CNAME   .
+$ORIGIN com-as.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+uinsgd.ac.id                       CNAME   .
+$ORIGIN uinsgd.ac.id.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+varamar.ir                       CNAME   .
+$ORIGIN varamar.ir.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+donplitka.in.ua                       CNAME   .
+$ORIGIN donplitka.in.ua.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+worldhosts.ru                       CNAME   .
+$ORIGIN worldhosts.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+63.240.155.81                       CNAME   .
+$ORIGIN 63.240.155.81.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+spb.ru                       CNAME   .
+$ORIGIN spb.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+experianuk.net                       CNAME   .
+$ORIGIN experianuk.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+maluofertadodia.com                       CNAME   .
+$ORIGIN maluofertadodia.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+jqme.com.cn                       CNAME   .
+$ORIGIN jqme.com.cn.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+jeringasbiomercy.com                       CNAME   .
+$ORIGIN jeringasbiomercy.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+starstrap.co.zw                       CNAME   .
+$ORIGIN starstrap.co.zw.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+getforge.io                       CNAME   .
+$ORIGIN getforge.io.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+kuklix.com                       CNAME   .
+$ORIGIN kuklix.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+marketplace-8esb3s6ydq1evz.com                       CNAME   .
+$ORIGIN marketplace-8esb3s6ydq1evz.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mettasc.com.br                       CNAME   .
+$ORIGIN mettasc.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+licogi18.com.vn                       CNAME   .
+$ORIGIN licogi18.com.vn.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+domtkaney.by                       CNAME   .
+$ORIGIN domtkaney.by.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sumadosa.ml                       CNAME   .
+$ORIGIN sumadosa.ml.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fb-badgeportals.com                       CNAME   .
+$ORIGIN fb-badgeportals.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+assimdescon-tos.com                       CNAME   .
+$ORIGIN assimdescon-tos.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+binaryconsultltd.com                       CNAME   .
+$ORIGIN binaryconsultltd.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+iqfilms.com                       CNAME   .
+$ORIGIN iqfilms.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+umbler.net                       CNAME   .
+$ORIGIN umbler.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+omdream.com.br                       CNAME   .
+$ORIGIN omdream.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+support1hit.net                       CNAME   .
+$ORIGIN support1hit.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mxmsolucoesambientais.com.br                       CNAME   .
+$ORIGIN mxmsolucoesambientais.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fotkinapiec.pl                       CNAME   .
+$ORIGIN fotkinapiec.pl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+egwiughb3kjrgheoinisagnerasd23sidhgfe.ml                       CNAME   .
+$ORIGIN egwiughb3kjrgheoinisagnerasd23sidhgfe.ml.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+lingmax.com.ua                       CNAME   .
+$ORIGIN lingmax.com.ua.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+maeminhaboom.com                       CNAME   .
+$ORIGIN maeminhaboom.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+41.208.150.114                       CNAME   .
+$ORIGIN 41.208.150.114.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+tripod.com                       CNAME   .
+$ORIGIN tripod.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+checkpoint-bussiness-manager-corporation-2020.my.id                       CNAME   .
+$ORIGIN checkpoint-bussiness-manager-corporation-2020.my.id.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+riyalelectricals.com                       CNAME   .
+$ORIGIN riyalelectricals.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+moctolihasfie.tk                       CNAME   .
+$ORIGIN moctolihasfie.tk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+myee-helpdesk.com                       CNAME   .
+$ORIGIN myee-helpdesk.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+id1107.icu                       CNAME   .
+$ORIGIN id1107.icu.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+managedshusht.com                       CNAME   .
+$ORIGIN managedshusht.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+45.77.17.135                       CNAME   .
+$ORIGIN 45.77.17.135.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+temporary.link                       CNAME   .
+$ORIGIN temporary.link.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+free-h.net                       CNAME   .
+$ORIGIN free-h.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nwstormvaultfiltersreplacementandcleaning.com                       CNAME   .
+$ORIGIN nwstormvaultfiltersreplacementandcleaning.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nationalcareersservice.org.uk                       CNAME   .
+$ORIGIN nationalcareersservice.org.uk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ketodietadvisor.com                       CNAME   .
+$ORIGIN ketodietadvisor.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ddns.net                       CNAME   .
+$ORIGIN ddns.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+diginik.net                       CNAME   .
+$ORIGIN diginik.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+chat-whatsagp.com                       CNAME   .
+$ORIGIN chat-whatsagp.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+wallacei.ir                       CNAME   .
+$ORIGIN wallacei.ir.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+acc-vendor.com                       CNAME   .
+$ORIGIN acc-vendor.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+magaluofertadodia.com                       CNAME   .
+$ORIGIN magaluofertadodia.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+hop.ru                       CNAME   .
+$ORIGIN hop.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+keic.com.eg                       CNAME   .
+$ORIGIN keic.com.eg.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+maliyanir.com                       CNAME   .
+$ORIGIN maliyanir.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+camperpuro.com                       CNAME   .
+$ORIGIN camperpuro.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+myds.me                       CNAME   .
+$ORIGIN myds.me.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+gvnconstructions.com                       CNAME   .
+$ORIGIN gvnconstructions.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+indumerltda.com                       CNAME   .
+$ORIGIN indumerltda.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+venturesu.xyz                       CNAME   .
+$ORIGIN venturesu.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+lionwealthcapitol.co.za                       CNAME   .
+$ORIGIN lionwealthcapitol.co.za.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+gps4you.net                       CNAME   .
+$ORIGIN gps4you.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+amberlyrobinson.com                       CNAME   .
+$ORIGIN amberlyrobinson.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+4666.co.kr                       CNAME   .
+$ORIGIN 4666.co.kr.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+blackberet.com.pk                       CNAME   .
+$ORIGIN blackberet.com.pk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+tombokka.com                       CNAME   .
+$ORIGIN tombokka.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+etoroinvest.org                       CNAME   .
+$ORIGIN etoroinvest.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+45.137.10.89                       CNAME   .
+$ORIGIN 45.137.10.89.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fastwebserver.de                       CNAME   .
+$ORIGIN fastwebserver.de.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+kolkatawebsolutions.com                       CNAME   .
+$ORIGIN kolkatawebsolutions.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+barocheck.kr                       CNAME   .
+$ORIGIN barocheck.kr.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+cyndeehoward.com                       CNAME   .
+$ORIGIN cyndeehoward.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+dailyfitnesszone.com                       CNAME   .
+$ORIGIN dailyfitnesszone.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bikeshshrestha.com.np                       CNAME   .
+$ORIGIN bikeshshrestha.com.np.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ppns.ac.id                       CNAME   .
+$ORIGIN ppns.ac.id.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+app.link                       CNAME   .
+$ORIGIN app.link.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+commonwealthbank.accountants                       CNAME   .
+$ORIGIN commonwealthbank.accountants.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+dexterlimited.com                       CNAME   .
+$ORIGIN dexterlimited.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+my03.com                       CNAME   .
+$ORIGIN my03.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nu-verificatie.club                       CNAME   .
+$ORIGIN nu-verificatie.club.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+vhujesk3j8io29slyuyd93kdye37fg39ytask2mzu2.ml                       CNAME   .
+$ORIGIN vhujesk3j8io29slyuyd93kdye37fg39ytask2mzu2.ml.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+okletsbuy.com                       CNAME   .
+$ORIGIN okletsbuy.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+securenetz.com                       CNAME   .
+$ORIGIN securenetz.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+denaros.pl                       CNAME   .
+$ORIGIN denaros.pl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+biospr.com                       CNAME   .
+$ORIGIN biospr.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rs-bonus.com                       CNAME   .
+$ORIGIN rs-bonus.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+modulecomms.com.au                       CNAME   .
+$ORIGIN modulecomms.com.au.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bcuworks.com                       CNAME   .
+$ORIGIN bcuworks.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+objectway.ca                       CNAME   .
+$ORIGIN objectway.ca.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+essentials.me.uk                       CNAME   .
+$ORIGIN essentials.me.uk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+megachanceltd.com                       CNAME   .
+$ORIGIN megachanceltd.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+lmaxhk.com                       CNAME   .
+$ORIGIN lmaxhk.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bodegascrotta.com.ar                       CNAME   .
+$ORIGIN bodegascrotta.com.ar.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+outlookaccessvoice.gq                       CNAME   .
+$ORIGIN outlookaccessvoice.gq.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+laymosupmistpercvi.tk                       CNAME   .
+$ORIGIN laymosupmistpercvi.tk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fdceb00k.com                       CNAME   .
+$ORIGIN fdceb00k.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+amosleh.com                       CNAME   .
+$ORIGIN amosleh.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+remembernancy.com                       CNAME   .
+$ORIGIN remembernancy.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+pianostore.pl                       CNAME   .
+$ORIGIN pianostore.pl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bimasada.com                       CNAME   .
+$ORIGIN bimasada.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+centraslcourierllc.com                       CNAME   .
+$ORIGIN centraslcourierllc.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+systemreviewaccountaccess.ga                       CNAME   .
+$ORIGIN systemreviewaccountaccess.ga.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+cloudns.cl                       CNAME   .
+$ORIGIN cloudns.cl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+wetrsfer.ir                       CNAME   .
+$ORIGIN wetrsfer.ir.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+relo-assist.com                       CNAME   .
+$ORIGIN relo-assist.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mikedermo.tk                       CNAME   .
+$ORIGIN mikedermo.tk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+minigpracing.co.uk                       CNAME   .
+$ORIGIN minigpracing.co.uk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+clarityptc.co.uk                       CNAME   .
+$ORIGIN clarityptc.co.uk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+phreshphoto.com                       CNAME   .
+$ORIGIN phreshphoto.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mbmarquitectos.com.pe                       CNAME   .
+$ORIGIN mbmarquitectos.com.pe.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+webcindario.com                       CNAME   .
+$ORIGIN webcindario.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+zwaveguide.com                       CNAME   .
+$ORIGIN zwaveguide.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+imateplus.com                       CNAME   .
+$ORIGIN imateplus.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+businesslifecoachingcanada.com                       CNAME   .
+$ORIGIN businesslifecoachingcanada.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+1921darling.com                       CNAME   .
+$ORIGIN 1921darling.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+myddns.me                       CNAME   .
+$ORIGIN myddns.me.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+campuspride.ro                       CNAME   .
+$ORIGIN campuspride.ro.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ranchoalegrecpv.com                       CNAME   .
+$ORIGIN ranchoalegrecpv.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nucare.com.au                       CNAME   .
+$ORIGIN nucare.com.au.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+controlware.com.bd                       CNAME   .
+$ORIGIN controlware.com.bd.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+net2care.com                       CNAME   .
+$ORIGIN net2care.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+giles.ir                       CNAME   .
+$ORIGIN giles.ir.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fintraderclub.com                       CNAME   .
+$ORIGIN fintraderclub.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+your-revision.com                       CNAME   .
+$ORIGIN your-revision.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+marketplace32839738419371.com                       CNAME   .
+$ORIGIN marketplace32839738419371.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+marketplace46342557140550.com                       CNAME   .
+$ORIGIN marketplace46342557140550.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+jppost-ahe.top                       CNAME   .
+$ORIGIN jppost-ahe.top.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+glicouk.com                       CNAME   .
+$ORIGIN glicouk.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sistemaverde.cl                       CNAME   .
+$ORIGIN sistemaverde.cl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+udagwebspace.de                       CNAME   .
+$ORIGIN udagwebspace.de.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+salonii.com                       CNAME   .
+$ORIGIN salonii.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+jacobspublishers.com                       CNAME   .
+$ORIGIN jacobspublishers.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+allrepair.it                       CNAME   .
+$ORIGIN allrepair.it.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rakutensdfwefzxcvwwwrfasd.monster                       CNAME   .
+$ORIGIN rakutensdfwefzxcvwwwrfasd.monster.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mamaesuperboom.com                       CNAME   .
+$ORIGIN mamaesuperboom.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+antechcontrols.com.au                       CNAME   .
+$ORIGIN antechcontrols.com.au.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+jamescorretor.com.br                       CNAME   .
+$ORIGIN jamescorretor.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+grrasawstraining.com                       CNAME   .
+$ORIGIN grrasawstraining.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rebate-calculation.uk                       CNAME   .
+$ORIGIN rebate-calculation.uk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ginettelambert.com                       CNAME   .
+$ORIGIN ginettelambert.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+monicasu.com                       CNAME   .
+$ORIGIN monicasu.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+kenzindia.com                       CNAME   .
+$ORIGIN kenzindia.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+signdomains.in                       CNAME   .
+$ORIGIN signdomains.in.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+kl.com.ua                       CNAME   .
+$ORIGIN kl.com.ua.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+britaxtetosolar.com.br                       CNAME   .
+$ORIGIN britaxtetosolar.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+revealit.co.za                       CNAME   .
+$ORIGIN revealit.co.za.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mediahelpcenter.com                       CNAME   .
+$ORIGIN mediahelpcenter.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+gyee.cf                       CNAME   .
+$ORIGIN gyee.cf.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+45.77.28.74                       CNAME   .
+$ORIGIN 45.77.28.74.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+coconnext.com                       CNAME   .
+$ORIGIN coconnext.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nataliemerowsky.com                       CNAME   .
+$ORIGIN nataliemerowsky.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+j1939test.us                       CNAME   .
+$ORIGIN j1939test.us.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+joeypmemorialfoundation.com                       CNAME   .
+$ORIGIN joeypmemorialfoundation.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+kjsa.com                       CNAME   .
+$ORIGIN kjsa.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+surveymethods.com                       CNAME   .
+$ORIGIN surveymethods.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mendrtvver.com                       CNAME   .
+$ORIGIN mendrtvver.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+healtotoe.co.uk                       CNAME   .
+$ORIGIN healtotoe.co.uk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+santarms.com                       CNAME   .
+$ORIGIN santarms.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+perufantastictravel.com                       CNAME   .
+$ORIGIN perufantastictravel.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+wamatechnology.com                       CNAME   .
+$ORIGIN wamatechnology.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+co-host-listing-25130.casa                       CNAME   .
+$ORIGIN co-host-listing-25130.casa.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fanda.net.cn                       CNAME   .
+$ORIGIN fanda.net.cn.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+vaimtec.cl                       CNAME   .
+$ORIGIN vaimtec.cl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+renewdetails.services                       CNAME   .
+$ORIGIN renewdetails.services.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+helprasuwanepal.org.np                       CNAME   .
+$ORIGIN helprasuwanepal.org.np.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+co-host-listing-95130.casa                       CNAME   .
+$ORIGIN co-host-listing-95130.casa.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+independentclothingworks.com                       CNAME   .
+$ORIGIN independentclothingworks.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+gamingweb.de                       CNAME   .
+$ORIGIN gamingweb.de.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+profiloaggiornato.com                       CNAME   .
+$ORIGIN profiloaggiornato.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sicurezza-dati-conto.com                       CNAME   .
+$ORIGIN sicurezza-dati-conto.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+o2switch.net                       CNAME   .
+$ORIGIN o2switch.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+xfreefire.com                       CNAME   .
+$ORIGIN xfreefire.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+co-host-listing-92512.casa                       CNAME   .
+$ORIGIN co-host-listing-92512.casa.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+setupbusinessinusa.com                       CNAME   .
+$ORIGIN setupbusinessinusa.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fabiotrad.com.br                       CNAME   .
+$ORIGIN fabiotrad.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+home-realtor.ca                       CNAME   .
+$ORIGIN home-realtor.ca.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bodygeez.com                       CNAME   .
+$ORIGIN bodygeez.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+beezyoption.com                       CNAME   .
+$ORIGIN beezyoption.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+beauty4her.co.za                       CNAME   .
+$ORIGIN beauty4her.co.za.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+verifacountsfb0.cf                       CNAME   .
+$ORIGIN verifacountsfb0.cf.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+lauschreich.com                       CNAME   .
+$ORIGIN lauschreich.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+firebaseapp.com                       CNAME   .
+$ORIGIN firebaseapp.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+silvetmaster.ru                       CNAME   .
+$ORIGIN silvetmaster.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+steampoweroeszvd.me                       CNAME   .
+$ORIGIN steampoweroeszvd.me.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+snapchat.tel                       CNAME   .
+$ORIGIN snapchat.tel.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+uw.hu                       CNAME   .
+$ORIGIN uw.hu.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+diyspace.com.pk                       CNAME   .
+$ORIGIN diyspace.com.pk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bokep57.cf                       CNAME   .
+$ORIGIN bokep57.cf.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+motog-plus-8thgeneration-64gb.com                       CNAME   .
+$ORIGIN motog-plus-8thgeneration-64gb.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+townandcitydevelopers.com                       CNAME   .
+$ORIGIN townandcitydevelopers.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nightvision.tech                       CNAME   .
+$ORIGIN nightvision.tech.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+107.174.240.42                       CNAME   .
+$ORIGIN 107.174.240.42.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+americanas-loja25.com                       CNAME   .
+$ORIGIN americanas-loja25.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+servebeer.com                       CNAME   .
+$ORIGIN servebeer.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+gatetampcraez.com                       CNAME   .
+$ORIGIN gatetampcraez.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+usell4more.com                       CNAME   .
+$ORIGIN usell4more.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rohawkfonlupasi.tk                       CNAME   .
+$ORIGIN rohawkfonlupasi.tk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+zisonai.com                       CNAME   .
+$ORIGIN zisonai.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+inkiprint.com                       CNAME   .
+$ORIGIN inkiprint.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+cbdadhacks.com                       CNAME   .
+$ORIGIN cbdadhacks.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+azzelia.com                       CNAME   .
+$ORIGIN azzelia.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+heartstrongyoga.com                       CNAME   .
+$ORIGIN heartstrongyoga.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fpmaam.org                       CNAME   .
+$ORIGIN fpmaam.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bancosestadocl.com                       CNAME   .
+$ORIGIN bancosestadocl.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+hozaybeats.com                       CNAME   .
+$ORIGIN hozaybeats.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sof.edu.vn                       CNAME   .
+$ORIGIN sof.edu.vn.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+massimobacchini.com                       CNAME   .
+$ORIGIN massimobacchini.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+boxberry-emerch.ru                       CNAME   .
+$ORIGIN boxberry-emerch.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+adamxwagner.co.uk                       CNAME   .
+$ORIGIN adamxwagner.co.uk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rakutensdfwefzxcvwwezcver.buzz                       CNAME   .
+$ORIGIN rakutensdfwefzxcvwwezcver.buzz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mmarau.ac.ke                       CNAME   .
+$ORIGIN mmarau.ac.ke.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+kenaidanceta.com                       CNAME   .
+$ORIGIN kenaidanceta.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mobileshelving.com                       CNAME   .
+$ORIGIN mobileshelving.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+tuttimobile.com.br                       CNAME   .
+$ORIGIN tuttimobile.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+comeseemedia.com                       CNAME   .
+$ORIGIN comeseemedia.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+checkpoint-bussiness-manager-corporation-032.tk                       CNAME   .
+$ORIGIN checkpoint-bussiness-manager-corporation-032.tk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+olympic.mn                       CNAME   .
+$ORIGIN olympic.mn.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+iahrw.com                       CNAME   .
+$ORIGIN iahrw.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+botaoff-cupom1203.com                       CNAME   .
+$ORIGIN botaoff-cupom1203.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+tonyjosephpaul86.com                       CNAME   .
+$ORIGIN tonyjosephpaul86.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+dat-25.com                       CNAME   .
+$ORIGIN dat-25.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+paypalssdfmwemfmsdfz.buzz                       CNAME   .
+$ORIGIN paypalssdfmwemfmsdfz.buzz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+techack.xyz                       CNAME   .
+$ORIGIN techack.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+160.251.2.167                       CNAME   .
+$ORIGIN 160.251.2.167.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+setor-financeirooo.com                       CNAME   .
+$ORIGIN setor-financeirooo.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+womromsnd.com                       CNAME   .
+$ORIGIN womromsnd.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rakutensdfwefzxcvwwezcver.monster                       CNAME   .
+$ORIGIN rakutensdfwefzxcvwwezcver.monster.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+lifebylife.org                       CNAME   .
+$ORIGIN lifebylife.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+eventfreex.com                       CNAME   .
+$ORIGIN eventfreex.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+axeldlowgclow.tk                       CNAME   .
+$ORIGIN axeldlowgclow.tk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+appdomain.cloud                       CNAME   .
+$ORIGIN appdomain.cloud.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+checkpoint-bussiness-manager-corporation-08.tk                       CNAME   .
+$ORIGIN checkpoint-bussiness-manager-corporation-08.tk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+checkpoint-bussiness-manager-corporation-05.tk                       CNAME   .
+$ORIGIN checkpoint-bussiness-manager-corporation-05.tk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+wbr.ly                       CNAME   .
+$ORIGIN wbr.ly.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+weberspro.com                       CNAME   .
+$ORIGIN weberspro.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+amcgardiennage.com                       CNAME   .
+$ORIGIN amcgardiennage.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+kiri-coaching.com                       CNAME   .
+$ORIGIN kiri-coaching.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+circuitodesignpr.com.br                       CNAME   .
+$ORIGIN circuitodesignpr.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mylovejar.com                       CNAME   .
+$ORIGIN mylovejar.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+leaddogweb.com                       CNAME   .
+$ORIGIN leaddogweb.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bellefontaineduilawyer.com                       CNAME   .
+$ORIGIN bellefontaineduilawyer.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+swrwthetjk.com                       CNAME   .
+$ORIGIN swrwthetjk.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+revmtpers.com                       CNAME   .
+$ORIGIN revmtpers.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+blorcssf.com                       CNAME   .
+$ORIGIN blorcssf.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+socialdrive.es                       CNAME   .
+$ORIGIN socialdrive.es.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+thenblus.com                       CNAME   .
+$ORIGIN thenblus.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+etransfers-interacs-ca.ga                       CNAME   .
+$ORIGIN etransfers-interacs-ca.ga.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+com-un.ru                       CNAME   .
+$ORIGIN com-un.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+daytimebrunchalways.com                       CNAME   .
+$ORIGIN daytimebrunchalways.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fleetyardx.com                       CNAME   .
+$ORIGIN fleetyardx.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+149.28.64.55                       CNAME   .
+$ORIGIN 149.28.64.55.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+trepgtd.ml                       CNAME   .
+$ORIGIN trepgtd.ml.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+v-84.ml                       CNAME   .
+$ORIGIN v-84.ml.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+cniresearchltd.com                       CNAME   .
+$ORIGIN cniresearchltd.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+subscribermail.com                       CNAME   .
+$ORIGIN subscribermail.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+amanda-johnson.com                       CNAME   .
+$ORIGIN amanda-johnson.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+chachainsurance.com                       CNAME   .
+$ORIGIN chachainsurance.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+andrealichtenstein.de                       CNAME   .
+$ORIGIN andrealichtenstein.de.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+crest-agro.com                       CNAME   .
+$ORIGIN crest-agro.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+getfreevent.com                       CNAME   .
+$ORIGIN getfreevent.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+freeventing.com                       CNAME   .
+$ORIGIN freeventing.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+xgetts.com                       CNAME   .
+$ORIGIN xgetts.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+pornsexz.com                       CNAME   .
+$ORIGIN pornsexz.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sd.inf.br                       CNAME   .
+$ORIGIN sd.inf.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bdkmakassar.net                       CNAME   .
+$ORIGIN bdkmakassar.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+validation-pki.com                       CNAME   .
+$ORIGIN validation-pki.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+gratuit.xyz                       CNAME   .
+$ORIGIN gratuit.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+kenzoken.com                       CNAME   .
+$ORIGIN kenzoken.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ioeoiw35kldbfiuwe1ljfdhf.ml                       CNAME   .
+$ORIGIN ioeoiw35kldbfiuwe1ljfdhf.ml.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+urlz.fr                       CNAME   .
+$ORIGIN urlz.fr.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+wwf.cl                       CNAME   .
+$ORIGIN wwf.cl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+elletau.com                       CNAME   .
+$ORIGIN elletau.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+znymall.cn                       CNAME   .
+$ORIGIN znymall.cn.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+qedmessaging.net                       CNAME   .
+$ORIGIN qedmessaging.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fotkinapiec.com.pl                       CNAME   .
+$ORIGIN fotkinapiec.com.pl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+155.138.160.98                       CNAME   .
+$ORIGIN 155.138.160.98.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+recuperesuasmilhasagora-mobile.com                       CNAME   .
+$ORIGIN recuperesuasmilhasagora-mobile.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+app-sacmobile.com                       CNAME   .
+$ORIGIN app-sacmobile.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+m-resgatemilhasemate24hrs.com                       CNAME   .
+$ORIGIN m-resgatemilhasemate24hrs.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+34.94.148.132                       CNAME   .
+$ORIGIN 34.94.148.132.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+satgobmx.club                       CNAME   .
+$ORIGIN satgobmx.club.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+unkindmoglen.com                       CNAME   .
+$ORIGIN unkindmoglen.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+pertanian.go.id                       CNAME   .
+$ORIGIN pertanian.go.id.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+tudotem20salda-oo.com                       CNAME   .
+$ORIGIN tudotem20salda-oo.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+82.166.42.244                       CNAME   .
+$ORIGIN 82.166.42.244.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ferramentasluh.com                       CNAME   .
+$ORIGIN ferramentasluh.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+jh85g-bom-so-faltava-voce.com                       CNAME   .
+$ORIGIN jh85g-bom-so-faltava-voce.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+onlinebankingupdate.com                       CNAME   .
+$ORIGIN onlinebankingupdate.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+billing-information.co.uk                       CNAME   .
+$ORIGIN billing-information.co.uk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+evostore.com.np                       CNAME   .
+$ORIGIN evostore.com.np.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rakuten-co-jp-oiweoriputoiwqoiytoowqerpouqwmnsdafx.buzz                       CNAME   .
+$ORIGIN rakuten-co-jp-oiweoriputoiwqoiytoowqerpouqwmnsdafx.buzz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+personasmx.xyz                       CNAME   .
+$ORIGIN personasmx.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+dasfsdgsdgs3sd.com                       CNAME   .
+$ORIGIN dasfsdgsdgs3sd.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+theofficesa.com                       CNAME   .
+$ORIGIN theofficesa.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+magaluappsdescontos.com                       CNAME   .
+$ORIGIN magaluappsdescontos.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ucoz.org                       CNAME   .
+$ORIGIN ucoz.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+formacao.org.br                       CNAME   .
+$ORIGIN formacao.org.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+autoscurt24.de                       CNAME   .
+$ORIGIN autoscurt24.de.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+weryfikacja-kosmetyczki.biz                       CNAME   .
+$ORIGIN weryfikacja-kosmetyczki.biz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+diamondcustomupholstery.com                       CNAME   .
+$ORIGIN diamondcustomupholstery.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+cloudfront.net                       CNAME   .
+$ORIGIN cloudfront.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+stereovision.biz                       CNAME   .
+$ORIGIN stereovision.biz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+trianon-1000.ru                       CNAME   .
+$ORIGIN trianon-1000.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+sgs-tl.com.ua                       CNAME   .
+$ORIGIN sgs-tl.com.ua.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bizitsystem.com                       CNAME   .
+$ORIGIN bizitsystem.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+netflix-3meses-gratis.com                       CNAME   .
+$ORIGIN netflix-3meses-gratis.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+americanasofertas-dodia.com                       CNAME   .
+$ORIGIN americanasofertas-dodia.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+buy-and-sell-9858205.xyz                       CNAME   .
+$ORIGIN buy-and-sell-9858205.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+voyagerseafood.com                       CNAME   .
+$ORIGIN voyagerseafood.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+pplrfs.icu                       CNAME   .
+$ORIGIN pplrfs.icu.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+marketplace-facebok.us                       CNAME   .
+$ORIGIN marketplace-facebok.us.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+belgeuse.org                       CNAME   .
+$ORIGIN belgeuse.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+pomento.in                       CNAME   .
+$ORIGIN pomento.in.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+67.229.29.13                       CNAME   .
+$ORIGIN 67.229.29.13.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ravimedicalstore.com.pk                       CNAME   .
+$ORIGIN ravimedicalstore.com.pk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+andreacostafisio.com.br                       CNAME   .
+$ORIGIN andreacostafisio.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+el-alt.com                       CNAME   .
+$ORIGIN el-alt.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+goldenstarkos.gr                       CNAME   .
+$ORIGIN goldenstarkos.gr.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+midyatmimaritas.com                       CNAME   .
+$ORIGIN midyatmimaritas.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mrec.edu.np                       CNAME   .
+$ORIGIN mrec.edu.np.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ioeoiw35kldbfiuwe1ljfdhf.tk                       CNAME   .
+$ORIGIN ioeoiw35kldbfiuwe1ljfdhf.tk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+overdroves.tk                       CNAME   .
+$ORIGIN overdroves.tk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+qurabsaxiopolingalasz.ml                       CNAME   .
+$ORIGIN qurabsaxiopolingalasz.ml.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+abisnangiskau.com                       CNAME   .
+$ORIGIN abisnangiskau.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+wevetrieditd.ru                       CNAME   .
+$ORIGIN wevetrieditd.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+baojumbo.vn                       CNAME   .
+$ORIGIN baojumbo.vn.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+cloudaccess.host                       CNAME   .
+$ORIGIN cloudaccess.host.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+com-zv.ru                       CNAME   .
+$ORIGIN com-zv.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+164.115.32.169                       CNAME   .
+$ORIGIN 164.115.32.169.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+deal8282.com                       CNAME   .
+$ORIGIN deal8282.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+thecatskillcampingcompany.com                       CNAME   .
+$ORIGIN thecatskillcampingcompany.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+azxcvb.ml                       CNAME   .
+$ORIGIN azxcvb.ml.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+siemply.com                       CNAME   .
+$ORIGIN siemply.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+gasssaelah.net                       CNAME   .
+$ORIGIN gasssaelah.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nagari.or.id                       CNAME   .
+$ORIGIN nagari.or.id.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+turnstile.net.au                       CNAME   .
+$ORIGIN turnstile.net.au.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nireuhzuz.net                       CNAME   .
+$ORIGIN nireuhzuz.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mauthsecure.com                       CNAME   .
+$ORIGIN mauthsecure.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+wasp-research.com                       CNAME   .
+$ORIGIN wasp-research.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+webydo.com                       CNAME   .
+$ORIGIN webydo.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+atualizacaodecadastrodigital.com                       CNAME   .
+$ORIGIN atualizacaodecadastrodigital.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+dmtxsc.com                       CNAME   .
+$ORIGIN dmtxsc.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+yellowling.com.br                       CNAME   .
+$ORIGIN yellowling.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+inkstreet.dk                       CNAME   .
+$ORIGIN inkstreet.dk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+hazelmereinteriors.com                       CNAME   .
+$ORIGIN hazelmereinteriors.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+jppost-sso.top                       CNAME   .
+$ORIGIN jppost-sso.top.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+hf505.com                       CNAME   .
+$ORIGIN hf505.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+dreampreneur.com                       CNAME   .
+$ORIGIN dreampreneur.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+millertau.com                       CNAME   .
+$ORIGIN millertau.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+vogfarma.com.br                       CNAME   .
+$ORIGIN vogfarma.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+testeseo.com.br                       CNAME   .
+$ORIGIN testeseo.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+secure-regain.xyz                       CNAME   .
+$ORIGIN secure-regain.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+jaleco.com                       CNAME   .
+$ORIGIN jaleco.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+pokercllub88.com                       CNAME   .
+$ORIGIN pokercllub88.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bubmnreda.cf                       CNAME   .
+$ORIGIN bubmnreda.cf.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ifeowin234ihsfomngesd1ligorejhh.ml                       CNAME   .
+$ORIGIN ifeowin234ihsfomngesd1ligorejhh.ml.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+broomwhimplet.com                       CNAME   .
+$ORIGIN broomwhimplet.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+srt-01.tk                       CNAME   .
+$ORIGIN srt-01.tk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ifeowin234ihsfomngesd1ligorejhh.gq                       CNAME   .
+$ORIGIN ifeowin234ihsfomngesd1ligorejhh.gq.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+gardengate.in                       CNAME   .
+$ORIGIN gardengate.in.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ezsolutions.com.au                       CNAME   .
+$ORIGIN ezsolutions.com.au.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+runescape-mobile.ru                       CNAME   .
+$ORIGIN runescape-mobile.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+goldmobi.club                       CNAME   .
+$ORIGIN goldmobi.club.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+anekaslot.com                       CNAME   .
+$ORIGIN anekaslot.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+wirehealdworld.com                       CNAME   .
+$ORIGIN wirehealdworld.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+petnewcenter.com.br                       CNAME   .
+$ORIGIN petnewcenter.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+pozhbez01.ru                       CNAME   .
+$ORIGIN pozhbez01.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+chingowashers.gq                       CNAME   .
+$ORIGIN chingowashers.gq.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+4actota.com.ua                       CNAME   .
+$ORIGIN 4actota.com.ua.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+affordable.cm                       CNAME   .
+$ORIGIN affordable.cm.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+toyncine.com                       CNAME   .
+$ORIGIN toyncine.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+torratorradejulho.com                       CNAME   .
+$ORIGIN torratorradejulho.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+oyatacr.com                       CNAME   .
+$ORIGIN oyatacr.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+motog-plus-8thgeneration-64gb-blue.com                       CNAME   .
+$ORIGIN motog-plus-8thgeneration-64gb-blue.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+desc-onto20.com                       CNAME   .
+$ORIGIN desc-onto20.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+whoopla.com.au                       CNAME   .
+$ORIGIN whoopla.com.au.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+steampoyiered.com                       CNAME   .
+$ORIGIN steampoyiered.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+metropoliz.it                       CNAME   .
+$ORIGIN metropoliz.it.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nnyswrecmessage.com                       CNAME   .
+$ORIGIN nnyswrecmessage.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+greationnmsans.com                       CNAME   .
+$ORIGIN greationnmsans.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nashvillerealestatetrust.com                       CNAME   .
+$ORIGIN nashvillerealestatetrust.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+overviewreport.com                       CNAME   .
+$ORIGIN overviewreport.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+onexon.fr                       CNAME   .
+$ORIGIN onexon.fr.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+affi.online                       CNAME   .
+$ORIGIN affi.online.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+zesterfools.net                       CNAME   .
+$ORIGIN zesterfools.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+provenancegifts.com                       CNAME   .
+$ORIGIN provenancegifts.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+painmanagement-atlanta.com                       CNAME   .
+$ORIGIN painmanagement-atlanta.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+repl.co                       CNAME   .
+$ORIGIN repl.co.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+boxbberry.ru                       CNAME   .
+$ORIGIN boxbberry.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+specoat.mu                       CNAME   .
+$ORIGIN specoat.mu.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+ame-ofertasdodia.com                       CNAME   .
+$ORIGIN ame-ofertasdodia.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+shadeakinbiyi.com                       CNAME   .
+$ORIGIN shadeakinbiyi.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+creware.asia                       CNAME   .
+$ORIGIN creware.asia.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+profelectrik.ru                       CNAME   .
+$ORIGIN profelectrik.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+snap-ontech.com                       CNAME   .
+$ORIGIN snap-ontech.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+lespetitesvictoires-asap.org                       CNAME   .
+$ORIGIN lespetitesvictoires-asap.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+relais-secure.fr                       CNAME   .
+$ORIGIN relais-secure.fr.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fotoblad.com                       CNAME   .
+$ORIGIN fotoblad.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+equestarianpelhamsparkway.com                       CNAME   .
+$ORIGIN equestarianpelhamsparkway.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+benesseremediterraneo.org                       CNAME   .
+$ORIGIN benesseremediterraneo.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+nviware.com                       CNAME   .
+$ORIGIN nviware.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+affp.com.br                       CNAME   .
+$ORIGIN affp.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+104.41.52.218                       CNAME   .
+$ORIGIN 104.41.52.218.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+itausegurancaapp.com                       CNAME   .
+$ORIGIN itausegurancaapp.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+thespeedofmoney.com                       CNAME   .
+$ORIGIN thespeedofmoney.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+techmarketingbuffalo.com                       CNAME   .
+$ORIGIN techmarketingbuffalo.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+balance.bg                       CNAME   .
+$ORIGIN balance.bg.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+maximizemeasly.com                       CNAME   .
+$ORIGIN maximizemeasly.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+en25.com                       CNAME   .
+$ORIGIN en25.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+xtronbikewear.co.uk                       CNAME   .
+$ORIGIN xtronbikewear.co.uk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+broadtelwireless.com                       CNAME   .
+$ORIGIN broadtelwireless.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+servepics.com                       CNAME   .
+$ORIGIN servepics.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+6fhci0.cn                       CNAME   .
+$ORIGIN 6fhci0.cn.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+seatassignmate.net                       CNAME   .
+$ORIGIN seatassignmate.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+changofariasgomez.com.ar                       CNAME   .
+$ORIGIN changofariasgomez.com.ar.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+osohealthful.com                       CNAME   .
+$ORIGIN osohealthful.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fedelta.store                       CNAME   .
+$ORIGIN fedelta.store.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+chivasgrillconcepcion.cl                       CNAME   .
+$ORIGIN chivasgrillconcepcion.cl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+pearlcity.buzz                       CNAME   .
+$ORIGIN pearlcity.buzz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+skhmcb.ac.in                       CNAME   .
+$ORIGIN skhmcb.ac.in.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+diversepropertysolutions.com                       CNAME   .
+$ORIGIN diversepropertysolutions.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+participatorybudgeting.org                       CNAME   .
+$ORIGIN participatorybudgeting.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+shatorupa.com                       CNAME   .
+$ORIGIN shatorupa.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+applepaymentpartner.com                       CNAME   .
+$ORIGIN applepaymentpartner.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+hotelbellevuecachan.com                       CNAME   .
+$ORIGIN hotelbellevuecachan.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+150.95.223.143                       CNAME   .
+$ORIGIN 150.95.223.143.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+pymcars.com                       CNAME   .
+$ORIGIN pymcars.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+tudonahoracerta.com                       CNAME   .
+$ORIGIN tudonahoracerta.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+benedettimusic.com                       CNAME   .
+$ORIGIN benedettimusic.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+wandstylisten.nl                       CNAME   .
+$ORIGIN wandstylisten.nl.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+hasgac.com                       CNAME   .
+$ORIGIN hasgac.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+masoudeaumer.com                       CNAME   .
+$ORIGIN masoudeaumer.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+bogu.me                       CNAME   .
+$ORIGIN bogu.me.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+reurl.cc                       CNAME   .
+$ORIGIN reurl.cc.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+giize.com                       CNAME   .
+$ORIGIN giize.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+orangepartners.be                       CNAME   .
+$ORIGIN orangepartners.be.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+paepai.com                       CNAME   .
+$ORIGIN paepai.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+blogsdominicanos.com                       CNAME   .
+$ORIGIN blogsdominicanos.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+komodogo.com                       CNAME   .
+$ORIGIN komodogo.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+custombrand.com.pk                       CNAME   .
+$ORIGIN custombrand.com.pk.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+device-support.services                       CNAME   .
+$ORIGIN device-support.services.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+weyfdc.com.au                       CNAME   .
+$ORIGIN weyfdc.com.au.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+tpsftz.org                       CNAME   .
+$ORIGIN tpsftz.org.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rebrand.ly                       CNAME   .
+$ORIGIN rebrand.ly.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+kherad.ir                       CNAME   .
+$ORIGIN kherad.ir.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+xn--twtter-4va.com.co                       CNAME   .
+$ORIGIN xn--twtter-4va.com.co.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+abucu5.ga                       CNAME   .
+$ORIGIN abucu5.ga.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+kolleenhandel.com                       CNAME   .
+$ORIGIN kolleenhandel.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+reliefbenefitnews.com                       CNAME   .
+$ORIGIN reliefbenefitnews.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+virtualsynopsis.com                       CNAME   .
+$ORIGIN virtualsynopsis.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+larkspurandtea.com                       CNAME   .
+$ORIGIN larkspurandtea.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+fe-spectrum.net                       CNAME   .
+$ORIGIN fe-spectrum.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+scqijie.com                       CNAME   .
+$ORIGIN scqijie.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+vousloup.com.br                       CNAME   .
+$ORIGIN vousloup.com.br.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mercadom.com.ar                       CNAME   .
+$ORIGIN mercadom.com.ar.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+mobilciyiz.net                       CNAME   .
+$ORIGIN mobilciyiz.net.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+98ec49d9778660d3b195af532fed655151ffcca0.info                       CNAME   .
+$ORIGIN 98ec49d9778660d3b195af532fed655151ffcca0.info.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+anthonystores.com                       CNAME   .
+$ORIGIN anthonystores.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+barclaysco.com                       CNAME   .
+$ORIGIN barclaysco.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+star-go.ru                       CNAME   .
+$ORIGIN star-go.ru.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+alordharaschool.com                       CNAME   .
+$ORIGIN alordharaschool.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+smoaksscf.buzz                       CNAME   .
+$ORIGIN smoaksscf.buzz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+tutijae.com                       CNAME   .
+$ORIGIN tutijae.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+in-fected.de                       CNAME   .
+$ORIGIN in-fected.de.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+91.216.190.22                       CNAME   .
+$ORIGIN 91.216.190.22.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+imagelinetech.com                       CNAME   .
+$ORIGIN imagelinetech.com.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+abourntite.xyz                       CNAME   .
+$ORIGIN abourntite.xyz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+rameau-olivier.dz                       CNAME   .
+$ORIGIN rameau-olivier.dz.openphish.host.pl.
+*                       CNAME   .
+
+$ORIGIN openphish.host.pl.
+oddsye-71.ga                       CNAME   .
+$ORIGIN oddsye-71.ga.openphish.host.pl.
+*                       CNAME   .
+

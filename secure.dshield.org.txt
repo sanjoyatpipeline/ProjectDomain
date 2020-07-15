@@ -1,0 +1,11 @@
+$ORIGIN .
+$TTL 3600      ; 1 hour
+secure.dshield.org        IN SOA  need.to.know.only. hostmaster.pl.com. (
+                                1594722506 ; serial
+                                120        ; refresh (2 minutes)
+                                60         ; retry (1 minute)
+                                432000     ; expire (5 days)
+                                60         ; minimum (1 minute)
+                                )
+                        NS      localhost.
+
